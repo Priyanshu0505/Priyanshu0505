@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Priyanshu Raj, a Computer Science student passionate about Full Stack Web Development and problem-solving. I enjoy building scalable web applications with the MERN stack while continuously strengthening my Java and DSA skills. I'm always eager to learn new technologies, contribute to meaningful projects, and grow as a software developer.
+Hi, I'm Priyanshu Raj, a passionate Computer Science student who loves turning ideas into real-world web applications. I specialize in Full Stack Web Development with the MERN stack and continuously improve my skills in Java and Data Structures & Algorithms. I enjoy solving coding challenges, learning new technologies, and building projects that create meaningful user experiences. I'm always eager to learn, collaborate, and grow as a software developer.
 
 
 ## 🌐 Socials:
