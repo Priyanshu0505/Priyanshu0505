@@ -4,71 +4,56 @@
 
 ### 💻 Full Stack Web Developer (MERN) | ☕ Java Developer | 📚 DSA Enthusiast
 
-<p>
-Passionate Computer Science student who loves building scalable web applications and solving challenging problems.
-Currently focused on Full Stack Web Development, Java, and Data Structures & Algorithms.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Java+Developer;DSA+Enthusiast;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
 
-<p>
-<a href="https://www.linkedin.com/in/priyanshu05raj/">
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Priyanshu0505&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/priyanshu05raj/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:rpriyanshu100@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:rpriyanshu309@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Priyanshu0505">
+<a href="https://leetcode.com/u/PriyanshuRaj010/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://github.com/Priyanshu0505" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
-
-</div>
 
 ---
 
 # 👨‍💻 About Me
 
 - 🎓 Computer Science Student
-- 🌱 Currently learning **MERN Stack**
-- ☕ Strong in **Java & DSA**
-- 🚀 Interested in Full Stack Development
-- 💡 Love solving coding problems on LeetCode
-- 🤝 Open to Internship & Collaboration
+- 💻 Passionate about Full Stack Web Development
+- 🌱 Currently learning **Advanced MERN Stack**
+- ☕ Strong in **Java & Data Structures & Algorithms**
+- 🚀 Building scalable and responsive web applications
+- 💡 Solving coding problems on **LeetCode**
+- 🤝 Open to Internship & Collaboration Opportunities
 
 ---
 
 # 🚀 Tech Stack
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,c,cpp,js,html,css,python"/>
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,vercel,netlify"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,c,cpp,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,figma,postman,vercel,netlify"/>
 </p>
 
 ---
@@ -77,36 +62,42 @@ Currently focused on Full Stack Web Development, Java, and Data Structures & Alg
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Priyanshu0505&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=Priyanshu0505&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
-<img height="180em" src="https://streak-stats.demolab.com?user=Priyanshu0505&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu0505&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Priyanshu0505&theme=tokyonight&no-frame=true&margin-w=10)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu0505&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# 💻 LeetCode Stats
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu0505&theme=tokyo-night)
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/PriyanshuRaj010?theme=dark&font=Poppins&ext=contest"/>
+
+</div>
+
+---
+
+# ⚡ Fun Fact
+
+```java
+while(!success){
+    learn();
+    code();
+    improve();
+}
+```
 
 ---
 
 <div align="center">
 
 ### ⭐ Thanks for visiting my profile!
+
+*"Code. Learn. Build. Repeat."* 🚀
 
 </div>
