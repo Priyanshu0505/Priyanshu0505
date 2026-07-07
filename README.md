@@ -5,6 +5,10 @@ Full Stack Web Developer (MERN) • Java Developer • DSA Enthusiast
 </h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Full+Stack+Web+Developer+(MERN);Java+Developer;DSA+Enthusiast" />
+</p>
+
+<p align="center">
 Passionate Computer Science student interested in building scalable web applications,
 solving Data Structures & Algorithms problems, and continuously learning modern technologies.
 </p>
