@@ -83,6 +83,7 @@ HTML • CSS • React • Tailwind CSS
 Node.js • Express.js • MongoDB • MySQL
 </p>
 
+---
 
 ### 🛠️ Tools
 <p align="center">
