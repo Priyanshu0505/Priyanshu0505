@@ -10,11 +10,11 @@ Currently focused on Full Stack Web Development, Java, and Data Structures & Alg
 </p>
 
 <p>
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/priyanshu05raj/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:rpriyanshu100@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -77,15 +77,17 @@ Currently focused on Full Stack Web Development, Java, and Data Structures & Alg
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Priyanshu0505&show_icons=true&theme=tokyonight&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Priyanshu0505&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu0505&theme=tokyonight&hide_border=true)
+<br><br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu0505&layout=compact&theme=tokyonight&hide_border=true)
+<img height="180em" src="https://streak-stats.demolab.com?user=Priyanshu0505&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu0505&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
-
----
 
 # 🏆 GitHub Trophies
 
