@@ -58,6 +58,9 @@ solving Data Structures & Algorithms problems, and continuously learning modern 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,c,cpp,js,python" />
 </p>
+<p align="center">
+Java • C • C++ • JavaScript • Python
+</p>
 
 ---
 
