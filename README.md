@@ -62,7 +62,7 @@ solving Data Structures & Algorithms problems, and continuously learning modern 
 Java • C • C++ • JavaScript • Python
 </p>
 
----
+
 
 ### 🎨 Frontend
 <p align="center">
@@ -72,7 +72,7 @@ Java • C • C++ • JavaScript • Python
 <p align="center">
 HTML • CSS • React • Tailwind CSS
 </p>
----
+
 
 ### ⚙️ Backend & Database
 <p align="center">
@@ -82,7 +82,7 @@ HTML • CSS • React • Tailwind CSS
 <p align="center">
 Node.js • Express.js • MongoDB • MySQL
 </p>
----
+
 
 ### 🛠️ Tools
 <p align="center">
@@ -93,7 +93,6 @@ Node.js • Express.js • MongoDB • MySQL
 Git • GitHub • VS Code • IntelliJ IDEA • Postman • Figma • Vercel • Netlify
 </p>
 
----
 
 # 📊 GitHub Stats
 
