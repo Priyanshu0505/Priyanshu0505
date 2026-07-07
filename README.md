@@ -65,25 +65,32 @@ Java • C • C++ • JavaScript • Python
 ---
 
 ### 🎨 Frontend
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
 </p>
 
+<p align="center">
+HTML • CSS • React • Tailwind CSS
+</p>
 ---
 
 ### ⚙️ Backend & Database
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
+<p align="center">
+Node.js • Express.js • MongoDB • MySQL
+</p>
 ---
 
 ### 🛠️ Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma,vercel,netlify" />
+</p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma,vercel,netlify" />
+Git • GitHub • VS Code • IntelliJ IDEA • Postman • Figma • Vercel • Netlify
 </p>
 
 ---
