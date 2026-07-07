@@ -117,9 +117,7 @@ Git • GitHub • VS Code • IntelliJ IDEA • Postman • Figma • Vercel �
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Priyanshu0505&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Priyanshu0505&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
