@@ -46,7 +46,6 @@ solving Data Structures & Algorithms problems, and continuously learning modern 
 - ☕ Strong in **Java**
 - 📚 Practicing **Data Structures & Algorithms**
 - 🚀 Interested in **Full Stack Development**
-- 🤝 Looking for Internship Opportunities
 - 💡 Love solving coding problems on LeetCode
 
 ---
